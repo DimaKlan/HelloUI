@@ -958,6 +958,10 @@ ol, ul, li {
   color: #7884A6;
 }
 
+.footer__footer-about-info-list a::hover {
+color: #FFF;
+}
+
 .footer__end {
   padding-bottom: 25px;
 }
