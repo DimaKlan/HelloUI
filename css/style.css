@@ -769,7 +769,7 @@ ol, ul, li {
 }
 
 .footer {
-  background-image: url(/img/footer.png);
+  background-image: url(./img/footer.png);
 }
 
 .footer__content {
