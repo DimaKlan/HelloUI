@@ -717,7 +717,7 @@ ol, ul, li {
   position: absolute;
   width: 15px;
   height: 16px;
-  background-image: url(/img/DONE.jpg);
+  background-image: url(./img/DONE.jpg);
   z-index: 1;
   top: 4px;
   right: 25px;
@@ -769,7 +769,7 @@ ol, ul, li {
 }
 
 .footer {
-  background-image: url(../img/footer.png);
+  background-image: url(./img/footer.png);
 }
 
 .footer__content {
